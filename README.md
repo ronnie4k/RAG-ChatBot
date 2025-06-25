@@ -226,9 +226,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - FastAPI for the robust web framework
 - Streamlit for the interactive web interface
 
-## 📞 Support
-
-For support and questions:
-- Create an issue in the repository
-- Check the troubleshooting section
-- Review the API documentation at `http://localhost:8000/docs` 
